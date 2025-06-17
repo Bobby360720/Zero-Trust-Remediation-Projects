@@ -21,9 +21,10 @@ This repository aligns with Microsoft's Zero Trust architecture as outlined in t
 
 1. **Identity**  
    Enforce strong authentication and least privilege access (e.g., Entra ID, Conditional Access, PIM).
-2. **Endpoints**  
+    * [Azure Resource Tagging Remediation ]()
+3. **Endpoints**  
    Monitor and secure endpoints via tools like Microsoft Defender for Endpoint and Intune.
-3. **Applications**  
+4. **Applications**  
    Ensure secure app access, with integrated app-based conditional access and risk-based policies.
-4. **Data**  
+5. **Data**  
    Protect sensitive data using classification
