@@ -15,7 +15,7 @@ My  mission is to demonstrate and support:
 
 
 
-## 🎯 Microsoft Zero Trust Architecture Pillars
+##  Microsoft Zero Trust Architecture Pillars
 
 This repository aligns with Microsoft's Zero Trust architecture as outlined in the [Microsoft Cybersecurity Reference Architectures (MCRA)](https://aka.ms/mcra), and addresses each of the following Zero Trust pillars:
 
